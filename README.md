@@ -52,9 +52,9 @@
 4. ### **Results(video).**
 #### After successfully training the repo i tested it on myself with my laptop's webcam for both with and without mask. 
 
-![video without mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/video%20without%20mask.mp4)
+![video image without mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/video%20image%20without%20mask.jpg)
 
-![video with mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/video%20with%20mask.mp4)
+![video image with mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/video%20image%20with%20mask.jpg)
 
 
 
