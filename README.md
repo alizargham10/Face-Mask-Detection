@@ -18,6 +18,46 @@
 
 ## :point_down: Support me here!
 <a href="https://www.buymeacoffee.com/chandrikadeb7" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+# **Additional Changes by (Ali Zargham)**
+---
+# For DSSIPD challenge i forked a repo from github and did some changes which are as follows
+1. ### **Changes in Database.** 
+#### I manually added pictures in the database to check the response of the repo with additional data. I took some selfies and some picture of a friend to test it.
+---
+#### ![Accuracy results before including additional images in database](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+---
+#### ![Accuracy results after including additional images in database](https://github.com/alizargham10/images-for-mask-detection/blob/main/facemask%20training.png)
+---
+2. ### **Requirments for running this repo.** 
+### To run this repo i installed following libraries.
+#### tensorflow>=2.5.0*
+#### keras==2.4.3
+#### imutils==0.5.4
+#### numpy==1.19.5
+#### opencv-python>=4.2.0.32
+#### matplotlib==3.4.1
+#### argparse==1.4.0
+#### scipy==1.6.2
+#### scikit-learn==0.24.1
+#### pillow>=8.3.2
+#### streamlit==0.79.0
+#### onnx==1.10.1
+#### tf2onnx==1.9.3
+---
+3. ### **Results (images).**
+#### After successfully training the repo i tested it on my still images
+![Still images without mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/still%20image%20without%20mask.png)  
+![Still image with mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/still%20images%20with%20mask.png)
+---
+4. ### **Results(video).**
+#### After successfully training the repo i tested it on myself with my laptop's webcam for both with and without mask. 
+
+![video without mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/video%20without%20mask.mp4)
+
+![video with mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/video%20with%20mask.mp4)
+
+
+
 
 ## :innocent: Motivation
 Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging. 
