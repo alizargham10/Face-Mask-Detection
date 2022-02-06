@@ -71,7 +71,7 @@ python detect_mask_video.py
 
 ![video image with mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/video%20image%20with%20mask.jpg)
 
-Thats it! 
+Thats all from Ali! 
 
 
 ## :innocent: Motivation
