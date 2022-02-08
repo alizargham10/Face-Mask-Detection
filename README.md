@@ -20,38 +20,63 @@
 <a href="https://www.buymeacoffee.com/chandrikadeb7" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 # **Additional Changes by (Ali Zargham)**
 ---
-# For DSSIPD challenge i forked a repo from github and did some changes which are as follows
+## For DSSIPD challenge i forked a repo from github and did some changes which are as follows
 1. ### **Changes in Database.** 
-#### I forked this repo from github and  manually added pictures in the database to check the response of the repo with additional data. I took some selfies and some picture of a friend to test it.
+
+I forked this repo from github and  manually added pictures in the database to check the response of the repo with additional data. I took some selfies and some picture of a friend to test it.
+
 ---
-#### ![Accuracy results before including additional images in database](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+
+ ![Accuracy results before including additional images in database](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+
 ---
-#### ![Accuracy results after including additional images in database](https://github.com/alizargham10/images-for-mask-detection/blob/main/facemask%20training.png)
+
+
+ ![Accuracy results after including additional images in database](https://github.com/alizargham10/images-for-mask-detection/blob/main/facemask%20training.png)
+
 ---
 2. ### **Requirments for running this repo.** 
-### To run this repo i opened it in anaconda's virtual enviroment by using python version 3.6.13. After running it in terminal i installed following libraries.
-#### tensorflow>=2.5.0*
-#### keras==2.4.3
-#### imutils==0.5.4
-#### numpy==1.19.5
-#### opencv-python>=4.2.0.32
-#### matplotlib==3.4.1
-#### argparse==1.4.0
-#### scipy==1.6.2
-#### scikit-learn==0.24.1
-#### pillow>=8.3.2
-#### streamlit==0.79.0
-#### onnx==1.10.1
-#### tf2onnx==1.9.3
+
+ To run this repo i opened it in anaconda's virtual enviroment by using python version 3.6.13. After running it in terminal i installed following libraries.
+
+ tensorflow>=2.5.0*
+
+ keras==2.4.3
+
+imutils==0.5.4
+
+ numpy==1.19.5
+
+opencv-python>=4.2.0.32
+
+matplotlib==3.4.1
+
+argparse==1.4.0
+
+scipy==1.6.2
+
+scikit-learn==0.24.1
+
+pillow>=8.3.2
+
+streamlit==0.79.0
+
+onnx==1.10.1
+
+tf2onnx==1.9.3
+
 ---
 3. ### **Training.**
-#### After installing all the required libraries i started training of the repo by using command 
-#### python train_mask_detector.py --dataset dataset
+
+After installing all the required libraries i started training of the repo by using command 
+
+python train_mask_detector.py --dataset dataset
+
 I took me around 6 hours tou train this repo.
 
 4. ### **Results (images).**
 
-#### After successfully training the repo i tested it on my still images using command 
+After successfully training the repo i tested it on my still images using command 
 
 python detect_mask_image.py --image images/IMG_6141.jpeg
 
@@ -63,7 +88,8 @@ python detect_mask_image.py --image images/IMG_6138.jpeg
 
 ---
 5. ### **Results(video).**
-#### After successfully training the repo i tested it on myself with my laptop's webcam for both with and without mask using command.
+
+After successfully training the repo i tested it on myself with my laptop's webcam for both with and without mask using command.
 
 python detect_mask_video.py 
 
@@ -72,6 +98,8 @@ python detect_mask_video.py
 ![video image with mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/video%20image%20with%20mask.jpg)
 
 Thats all from Ali! 
+
+---
 
 
 ## :innocent: Motivation
