@@ -82,9 +82,12 @@ python detect_mask_image.py --image images/IMG_6141.jpeg
 
 python detect_mask_image.py --image images/IMG_6138.jpeg
 
-![still images without mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/still%20image%20without%20mask.png)  
+
+![still images without mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/still%20image%20without%20mask.png)
+
 
 ![Still image with mask](https://github.com/alizargham10/images-for-mask-detection/blob/main/still%20images%20with%20mask.png)
+
 
 ---
 5. ### **Results(video).**
