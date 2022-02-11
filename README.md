@@ -27,12 +27,12 @@ I forked this repo from github and  manually added pictures in the database to c
 
 ---
 
- ![Accuracy results before including additional images in database](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+ ![Accuracy results before including additional images in database](https://github.com/alizargham10/Face-Mask-Detection/blob/master/additional%20images%20by%20Ali%20Zargham%20for%20results/Screenshot%202022-02-11%20114622.png)
 
 ---
 
 
- ![Accuracy results after including additional images in database](https://github.com/alizargham10/images-for-mask-detection/blob/main/facemask%20training.png)
+ ![Accuracy results after including additional images in database](https://github.com/alizargham10/Face-Mask-Detection/blob/master/additional%20images%20by%20Ali%20Zargham%20for%20results/Screenshot%202022-02-05%20014531.png)
 
 ---
 2. ### **Requirments for running this repo.** 
