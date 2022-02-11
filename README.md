@@ -98,7 +98,7 @@ python detect_mask_video.py
 
 ![video image without mask](https://github.com/alizargham10/Face-Mask-Detection/blob/master/additional%20images%20by%20Ali%20Zargham%20for%20results/video%20image%20without%20mask.jpg)
 
-[video image with mask](https://github.com/alizargham10/Face-Mask-Detection/blob/master/additional%20images%20by%20Ali%20Zargham%20for%20results/video%20image%20with%20mask.jpg)
+![video image with mask](https://github.com/alizargham10/Face-Mask-Detection/blob/master/additional%20images%20by%20Ali%20Zargham%20for%20results/video%20image%20with%20mask.jpg)
 
 [Video without mask](https://github.com/alizargham10/Face-Mask-Detection/blob/master/additional%20images%20by%20Ali%20Zargham%20for%20results/video%20without%20mask.mp4)
 
